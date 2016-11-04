@@ -1,6 +1,9 @@
 ﻿# python
 파이썬 시작하기 강의 소스 저장소
 
+`git config --global user.name "user name"`
+`git config --global user.name "email address"`
+
 ## day1
 - 파이썬 프로그래밍 언어 설명
 - 파이썬 turtle 모듈을 이용한 실습
