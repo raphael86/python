@@ -5,3 +5,6 @@ def customPrint(str):
 customPrint("안녕")
 customPrint("조금")
 customPrint("참자")
+
+for i in range(10):
+    customPrint(str(i))

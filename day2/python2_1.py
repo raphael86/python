@@ -1,4 +1,4 @@
-a = 1
+a = 10
 
 if a == 1:
     print("참")
@@ -15,7 +15,7 @@ if a < 1:
 else:
     if a == 1:
         print("a는 1이랑 같다.")
-    else
+    else:
         print("a는 1보다 크다.")
     
 if a < 1:
