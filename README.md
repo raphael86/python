@@ -4,9 +4,9 @@
 
 * git 설치
 * python 설치
-* 아래 명령어를 git bash로 실행하세요
-** `git config --global user.name "user name"` 
-** `git config --global user.name "email address"`
+* 아래 명령어를 git bash로 실행
+* `git config --global user.name "user name"` 
+* `git config --global user.name "email address"`
 
 ## day1
 - 파이썬 프로그래밍 언어 설명
